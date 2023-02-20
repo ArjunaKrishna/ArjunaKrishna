@@ -18,3 +18,5 @@ channel.basic_consume(queue="message", on_message_callback=callback, auto_ack=Tr
 An example: 
 
 (Jacob (Full Name: Jacob Williams Anderson) worked 47.8 hours in the whole week) 
+
+![UML sequence diagram ](https://user-images.githubusercontent.com/102319952/220212838-82ea0d9a-9985-48f5-adcc-16f8e3abfb0d.png)
